@@ -11,18 +11,14 @@ p {
     font-style: italic;
 
 }
-
 #myid {
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
 }
-
 .myclass {
     color: green;
 }
-
-h4,
-h5{
+h4,h5{
     font-family: Cambria;
 }
 *{
