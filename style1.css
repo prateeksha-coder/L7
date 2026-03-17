@@ -1,8 +1,10 @@
 *{
    background-color: pink;
+   color: brown;
 }
  #para1 {
     font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
  }
  .c1 {
          background-color: blue;
